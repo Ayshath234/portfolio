@@ -1,0 +1,16 @@
+.fan{
+    background-color: azure;
+}
+body{
+    background-color: antiquewhite;
+}
+p{
+    color: green;
+
+}
+.duc{
+    background-color: rebeccapurple;
+    width: 150px;
+    padding: 30px;margin: 5opx;
+    border-radius: 40%;
+}
